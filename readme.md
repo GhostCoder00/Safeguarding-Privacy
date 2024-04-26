@@ -7,7 +7,7 @@
 This repository is anonymized for review.
 
 ## 🖼️ Teaser
-<img src="https://github.com/wmd0701/Digital-Self-Control/assets/34072813/6baafcb5-138e-4006-8b88-984842a052b5" width="700">
+![teaser_mw_small](https://github.com/GhostCoder00/Safeguarding-Privacy/assets/144137539/6f24c3da-ba0c-4f3f-a1ea-7e137b2fe186)
 
 ## 💁 Usage
 1. Download data and carry out data preprocessing following the instructions below.
